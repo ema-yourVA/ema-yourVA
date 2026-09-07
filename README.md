@@ -21,7 +21,7 @@ Computer Engineering graduate with 4+ years building workflow automations, data 
 | **[InboxFiler](https://emayourvirtualassistant.com/projects/inboxfiler/index.html)** | Catches every Gmail attachment, gives it an AI-generated filename, files it in Drive, logs the activity, and notifies the sender. | Make.com, Gmail, Google Drive |
 | **[JobMatch AI](https://emayourvirtualassistant.com/projects/jobmatch/index.html)** | A Slack bot that listens for a job search, finds matching openings, and writes a fresh tailored resume for every one of them. | Slack API, LLM, Google Docs |
 
-**Other client work:** a Zapier REST API integration syncing CRM deals into Contractor Foreman for a US roofing and construction firm, and automated candidate outreach across Recruiterflow, Dripify, and Snov.io serving 150+ accounting firm clients for an Australian talent advisory.
+**Other client work:** a Zapier REST API integration syncing CRM deals into project management software for a US construction client, and automated multi-channel candidate outreach for a recruitment firm in Australia.
 
 ---
 
