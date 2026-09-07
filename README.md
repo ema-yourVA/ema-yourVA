@@ -1,8 +1,8 @@
 # Ema Your VA
 
-**AI Automation & Data Operations.** I build systems that take a manual, repetitive process and turn it into a pipeline that runs itself.
+**AI Automation & Data Operations Specialist.** I turn manual, repetitive processes into reliable automated systems.
 
-Nine years in data operations and systems work, now specializing in AI-assisted automation for clients in the US, Australia, and the Philippines. I work end to end: architecture, build, testing, documentation, handover.
+Computer Engineering graduate with 4+ years building workflow automations, data pipelines, API integrations, and AI-assisted systems for clients and employers across the US, Australia, and the Philippines.
 
 [emayourvirtualassistant.com](https://emayourvirtualassistant.com) · [LinkedIn](https://www.linkedin.com/in/emayourva/) · ema.yourva@gmail.com
 
@@ -12,24 +12,28 @@ Nine years in data operations and systems work, now specializing in AI-assisted 
 
 | System | What it does | Built with |
 |---|---|---|
-| **[JobLinkOS](https://emayourvirtualassistant.com/projects/joblinkos/index.html)** | Collects job listings from 300+ company career sites across ~40 ATS platforms, filters duplicates, reads each posting with AI, files complete records into a database. Monthly output rose from an average of 3,418 to 19,786 completed links. | n8n, Google Sheets, Airtable, Supabase |
+| **[JobLinkOS](https://emayourvirtualassistant.com/projects/joblinkos/index.html)** | Collects job listings from 300+ company career sites across ~40 ATS platforms, filters duplicates, reads each posting with AI, files complete records into a database. Monthly output rose from an average of 3,418 to 19,786 completed links, a 5.8x increase, while cutting scraping costs 42%. | n8n, Google Sheets, Airtable, Supabase |
 | **[IntakeFlow](https://emayourvirtualassistant.com/projects/intakeflow/index.html)** | End-to-end lead intake for a client: a discovery-call form scores and tags every lead in Notion, sends branded confirmations, confirms Calendly bookings instantly by webhook, backs each lead up to Drive, and nurtures the ones who are not ready. Live and in production. | Make.com, Notion, Calendly, Google Apps Script |
 | **[ReelRunner](https://emayourvirtualassistant.com/projects/reelrunner/index.html)** | A short-form video pipeline that writes its own prompt, generates a vertical video, waits for one human yes, then publishes to YouTube and Facebook in parallel. Includes a weighted category planner, freshness dedupe, a spend guard, and A/B copy arms. Two accounts from zero: 21,000+ views. | n8n, video generation API, YouTube + Facebook APIs |
 | **[AI Receptionist](https://emayourvirtualassistant.com/projects/aireceptionist/index.html)** | A voice agent that answers on the first ring, reads a live calendar, books the appointment, and sends the confirmation while the caller is still on the line. Interactive demo on the page. | Voice AI, calendar API, webhooks |
-| **[ReportRunner](https://emayourvirtualassistant.com/projects/ReportRunner/index.html)** | Turns selected Google Sheets ranges into PDF reports and emails them to a recipient list, with duplicate prevention, retry logic, and full logging. | Google Apps Script |
+| **[ReportRunner](https://emayourvirtualassistant.com/projects/ReportRunner/index.html)** | Turns selected Google Sheets ranges into PDF reports and emails them to a recipient list on schedule, with duplicate prevention, retry logic, and full logging. | Google Apps Script |
 | **[LeadLoop](https://emayourvirtualassistant.com/projects/LeadLoop/index.html)** | Texts a new lead the moment they submit, follows up with a call, and qualifies them from their reply, with no human touching the pipeline. | GoHighLevel |
 | **[InboxFiler](https://emayourvirtualassistant.com/projects/inboxfiler/index.html)** | Catches every Gmail attachment, gives it an AI-generated filename, files it in Drive, logs the activity, and notifies the sender. | Make.com, Gmail, Google Drive |
 | **[JobMatch AI](https://emayourvirtualassistant.com/projects/jobmatch/index.html)** | A Slack bot that listens for a job search, finds matching openings, and writes a fresh tailored resume for every one of them. | Slack API, LLM, Google Docs |
+
+**Other client work:** a Zapier REST API integration syncing CRM deals into Contractor Foreman for a US roofing and construction firm, and automated candidate outreach across Recruiterflow, Dripify, and Snov.io serving 150+ accounting firm clients for an Australian talent advisory.
 
 ---
 
 ## Stack
 
-**Automation** n8n · Make.com · Zapier · GoHighLevel
-**Code** Google Apps Script · JavaScript / TypeScript · Python · SQL
-**Data** Google Sheets · Airtable · Supabase / PostgreSQL · Notion
-**AI** Claude (Anthropic API) · prompt engineering · LLM-in-the-loop pipelines
-**Web** React · Vite · Tailwind · REST APIs · webhooks · web scraping
+**AI & workflow automation** n8n · Make.com · Zapier · Google Apps Script · prompt engineering (Claude, Gemini, OpenRouter) · AI data extraction · workflow design
+
+**Development & deployment** Python · JavaScript · TypeScript · React · Next.js · HTML/CSS · SQL · REST APIs · webhooks · JSON · GitHub · VS Code · Cursor · Vercel · Render
+
+**Data, databases & analytics** Airtable · PostgreSQL · Supabase · Google Sheets · Notion · data cleaning and structuring
+
+**CRM, outreach & operations** Recruiterflow · GoHighLevel · Dripify · Snov.io · LinkedIn Sales Navigator · Zoho CRM · Capsule CRM · Contractor Foreman · Calendly · Slack
 
 ---
 
@@ -42,11 +46,15 @@ Nine years in data operations and systems work, now specializing in AI-assisted 
 
 ---
 
-## Certifications
+## Education & certifications
 
-**Anthropic** Claude with the Anthropic API · Claude Code in Action · Claude Code 101 · Claude 101
-**Technical Virtual Assistants PH** n8n · Make.com · Zapier · Prompt Engineering · HighLevel CRM
-**Coursera** Google Data Analytics Professional Certificate
+**BS Computer Engineering** — Philippine Christian University, Manila, 2024
+
+**Anthropic** AI Fluency (Framework & Foundations) · Claude 101 · Claude Platform 101 · Claude Code 101 · Claude Code in Action · Claude with the Anthropic API · Introduction to Claude Cowork
+
+**Technical Virtual Assistants PH** n8n AI Automation · Make.com Automation · Zapier Automation · Prompt Engineering · HighLevel CRM Full Training
+
+**Also** Google Data Analytics Professional Certificate (Coursera) · Google Ads Search Certification · IBM SkillsBuild Cloud Computing Fundamentals · TESDA Microsoft Digital Literacy and Data Recording & Reporting · Career Service Professional Eligibility (Civil Service Commission, Philippines)
 
 ---
 
