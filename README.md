@@ -4,6 +4,10 @@
 
 Computer Engineering graduate with 4+ years building workflow automations, data pipelines, API integrations, and AI-assisted systems for clients and employers across the US, Australia, and the Philippines.
 
+I came to automation from engineering and public-sector data work: a Computer Engineering degree, then a year running the City Government of Makati's internal database and GIS mapping systems, where inaccurate data changes planning and inspection decisions for a whole city. That is where I learned to build systems that hold up in production rather than demos that look good once.
+
+**Currently** building automation systems for client projects, and working toward further Anthropic and n8n certifications.
+
 [emayourvirtualassistant.com](https://emayourvirtualassistant.com) · [LinkedIn](https://www.linkedin.com/in/emayourva/) · ema.yourva@gmail.com
 
 ---
@@ -60,7 +64,9 @@ Computer Engineering graduate with 4+ years building workflow automations, data 
 
 ## Working with me
 
-Available for automation builds, AI integration, and data operations work.
+Open to freelance projects, contracts, contract-to-hire, and full-time roles. If the work is automation or data, I want to hear about it.
+
+**Availability** as needed, open to offers · **Response time** typically within 4 hours · **Based in** the Philippines (GMT+8), working with clients in the US, Australia, and the Philippines
 
 Start at [emayourvirtualassistant.com](https://emayourvirtualassistant.com), where every system above has a full case study with the problem, the architecture, and the result.
 
