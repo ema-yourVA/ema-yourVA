@@ -4,7 +4,7 @@
 
 Computer Engineering graduate with 4+ years building workflow automations, data pipelines, API integrations, and AI-assisted systems for clients and employers across the US, Australia, and the Philippines.
 
-I came to automation from engineering and public-sector data work: a Computer Engineering degree, then a year running the City Government of Makati's internal database and GIS mapping systems, where inaccurate data changes planning and inspection decisions for a whole city. That is where I learned to build systems that hold up in production rather than demos that look good once.
+I came to automation from engineering and public-sector data work — a Computer Engineering degree, then a year on the team looking after the City Government of Makati's internal database and GIS mapping systems. Planning and inspection decisions were made off that data, so getting it wrong had consequences beyond the screen. That's where I started caring about whether something holds up after handover, not just whether it demos well. I'm still learning — the tooling changes faster than anyone can keep up with, and I'd rather stay curious about that than pretend I've got it figured out.
 
 **Currently** building automation systems for client projects, and working toward further Anthropic and n8n certifications.
 
