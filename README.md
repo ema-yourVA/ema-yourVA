@@ -8,7 +8,7 @@ I came to automation from engineering and public-sector data work. I have a Comp
 
 **Currently** building automation systems for client projects, and working toward further Anthropic and n8n certifications.
 
-[emayourvirtualassistant.com](https://emayourvirtualassistant.com) · [LinkedIn](https://www.linkedin.com/in/emayourva/) · ema.yourva@gmail.com
+[emayourvirtualassistant.com](https://emayourvirtualassistant.com) · [LinkedIn](https://www.linkedin.com/in/emayourva/) · [Send me a message](https://emayourvirtualassistant.com/#contact)
 
 ---
 
