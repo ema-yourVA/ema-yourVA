@@ -24,6 +24,7 @@ I came to automation from engineering and public-sector data work. I have a Comp
 | **[LeadLoop](https://emayourvirtualassistant.com/projects/LeadLoop/index.html)** | Texts a new lead the moment they get in touch, follows up with a call, and works out from their reply whether they are worth pursuing. Nobody has to touch it. | GoHighLevel |
 | **[InboxFiler](https://emayourvirtualassistant.com/projects/inboxfiler/index.html)** | Picks up every Gmail attachment, has AI give it a sensible filename, files it in Drive, keeps a log, and lets the sender know. | Make.com, Gmail, Google Drive |
 | **[JobMatch AI](https://emayourvirtualassistant.com/projects/jobmatch/index.html)** | A Slack bot that listens for a job search, finds openings that match, and writes a fresh tailored resume for each one. | Slack API, LLM, Google Docs |
+| **[Research Agent](https://github.com/ema-yourVA/langchain-research-agent)** | Type a question and it searches Google, picks the best pages, reads them, and writes a short report with numbered sources. About two minutes and 15 cents a run. My hands-on LangChain project, and the full code is open on GitHub. | LangChain, Python, Claude, Decodo |
 
 **Other client work:** a Zapier integration that keeps CRM deals in step with project management software for a US construction client, and automated candidate outreach across several channels for a recruitment firm in Australia.
 
@@ -31,7 +32,7 @@ I came to automation from engineering and public-sector data work. I have a Comp
 
 ## Stack
 
-**AI & workflow automation** n8n · Make.com · Zapier · Google Apps Script · prompt engineering (Claude, Gemini, OpenRouter) · AI data extraction · workflow design
+**AI & workflow automation** n8n · Make.com · Zapier · Google Apps Script · LangChain · prompt engineering (Claude, Gemini, OpenRouter) · AI data extraction · workflow design
 
 **Development & deployment** Python · JavaScript · TypeScript · React · Next.js · HTML/CSS · SQL · REST APIs · webhooks · JSON · GitHub · VS Code · Cursor · Vercel · Render
 
