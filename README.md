@@ -71,4 +71,4 @@ Open to freelance projects, contracts, contract-to-hire, and full-time roles. If
 
 Start at [emayourvirtualassistant.com](https://emayourvirtualassistant.com), where every system above has a full case study with the problem, the architecture, and the result.
 
-<sub>Repositories here go up a few at a time. The workflow files are cleaned up first: no passwords, no server addresses, no database IDs, no client data.</sub>
+<sub>Each repository here is a showcase of a system I built and own: what it does, how it fits together, and what it achieved. The workflows and setup behind them stay private. Showcases so far: [JobLinkOS](https://github.com/ema-yourVA/joblinkos) · [IntakeFlow](https://github.com/ema-yourVA/intakeflow) · [ReportRunner](https://github.com/ema-yourVA/reportrunner). Want one built for your business? [Get in touch](https://emayourvirtualassistant.com/#contact).</sub>
